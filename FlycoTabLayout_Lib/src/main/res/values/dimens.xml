@@ -1,0 +1,16 @@
+<resources>
+
+    <dimen name="px1">1dp</dimen>
+    <dimen name="px2">2dp</dimen>
+    <dimen name="px3">3dp</dimen>
+    <dimen name="px5">5dp</dimen>
+    <dimen name="px7">7dp</dimen>
+    <dimen name="px8">8dp</dimen>
+    <dimen name="px10">10dp</dimen>
+    <dimen name="px12">12dp</dimen>
+    <dimen name="px13">13dp</dimen>
+    <dimen name="px15">15dp</dimen>
+    <dimen name="px16">16dp</dimen>
+    <dimen name="px18">18dp</dimen>
+    <dimen name="px20">20dp</dimen>
+</resources>
