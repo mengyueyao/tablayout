@@ -15,7 +15,7 @@
         app:tl_indicator_height="2dp"
         app:tl_indicator_width="60dp"
         app:tl_openTextDmg="true"
-        app:tl_tab_indicatorTop="40dp"
+        app:tl_tab_indicatorTop="20dp"
         app:tl_tab_dot_marginRight="-5dp"
         app:tl_tab_dot_marginTop="-5dp"
 
